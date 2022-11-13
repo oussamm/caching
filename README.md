@@ -35,3 +35,6 @@ Understanding how the hardware works is a critical component to understanding ho
 - Cache misses can result in TLB cache misses as well.
     - Cache of translations of a virtual address to a physical address.
     - Waiting on the OS to tell us where the memory is.
+
+All material is licensed under the Apache License Version 2.0, January 2004
+http://www.apache.org/licenses/LICENSE-2.0
